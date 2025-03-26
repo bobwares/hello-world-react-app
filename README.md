@@ -66,7 +66,7 @@ hello-world-react-app/
 
 ### Prerequisites
 
-- **Node.js** (v14 or above recommended)
+- **Node.js** (v18 or above recommended; using Node.js v22.7.0 is suggested for this project)
 - **npm** (comes with Node.js)
 - _(Optional)_ **Docker** for containerized builds
 
